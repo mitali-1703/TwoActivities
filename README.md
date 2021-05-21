@@ -12,3 +12,4 @@ In this app I learned about:-
 
 ## Privew of the app:-
 
+Download the [APK](https://github.com/mitali-1703/TwoActivities/releases/tag/latest/app-debug.apk) to have a run at it!!
