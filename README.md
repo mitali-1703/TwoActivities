@@ -10,6 +10,6 @@ In this app I learned about:-
 
 * Sending and Retrieving data through intents
 
-## Privew of the app:-
+## Preview of the app:-
 
 Download the [APK](https://github.com/mitali-1703/TwoActivities/releases/download/latest/app-debug.apk) to have a run at it!!
