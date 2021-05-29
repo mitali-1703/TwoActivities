@@ -12,4 +12,7 @@ In this app I learned about:-
 
 ## Preview of the app:-
 
+<img src="" width="" height=""> <img src="" width="" height="">
+<img src="" width="" height=""> <img src="" width="" height="">
+
 Download the [APK](https://github.com/mitali-1703/TwoActivities/releases/download/latest/app-debug.apk) to have a run at it!!
